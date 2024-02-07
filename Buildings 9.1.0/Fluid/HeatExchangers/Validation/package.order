@@ -1,0 +1,12 @@
+ConstantEffectiveness
+DryCoilEffectivenessNTU
+EvaporatorCondenser
+HeaterCooler_u
+PrescribedOutlet
+PrescribedOutlet_dynamic
+WetCoilCounterFlowLowWaterFlowRate
+WetCoilDiscretizedInitialization
+WetCoilDiscretizedInitializationPerfectGases
+WetCoilEffectivenessNTU
+WetCoilEffectivenessNTUCounterFlow
+WetCoilEffectivenessNTUHeating
